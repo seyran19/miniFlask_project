@@ -1,0 +1,11 @@
+/* Header images*/
+header {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 1000;
+}
+.header_image {
+    height: 74px;
+    width: 74px;
+}
